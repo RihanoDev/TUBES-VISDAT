@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit Final_Project_Visdat.ipynb
